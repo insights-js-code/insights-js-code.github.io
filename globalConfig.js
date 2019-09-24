@@ -1,3 +1,5 @@
+<script type="module">
+
 class GlobalConfig {
   constructor() {
     this.selectedFields = [];
@@ -17,3 +19,5 @@ class GlobalConfig {
 }
 
 export default GlobalConfig;
+
+</script>
